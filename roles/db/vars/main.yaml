@@ -1,2 +1,3 @@
 mysql_root_password: ExpenseApp@1
 login_host: db.sainathdevops.online
+DB_HOST: db.sainathdevops.online
