@@ -1,0 +1,6 @@
+login_user: root
+login_host: db.sainathdevops.online
+login_password: ExpenseApp@1
+DB_HOST: db.sainathdevops.online
+app_location: /app
+component: backend
